@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Prince Ransom A C 👋
-### 🚀 Data Scientist & ML/AI Engineer
+### 🚀 Data Science and ML & AI Enthusiast
 **Transforming Complex Data & Research into Scalable, Production-Ready AI Systems**
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Data Scientist & ML/AI Engineer** specialized in designing and deploying end-to-end intelligent systems. My expertise spans research-grade deep learning architectures (medical imaging, variational autoencoders) as well as enterprise-ready agentic workflows, self-corrective RAG pipelines, and high-impact analytics platforms.
+I am a **Data Science and ML & AI Enthusiast** specialized in designing and deploying end-to-end intelligent systems. My expertise spans research-grade deep learning architectures (medical imaging, variational autoencoders) as well as enterprise-ready agentic workflows, self-corrective RAG pipelines, and high-impact analytics platforms.
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Prince Ransom A C"
-        self.role = "Data Scientist & ML/AI Engineer"
+        self.role = "Data Science and ML & AI Enthusiast"
         self.location = "Bangalore"
         
     def current_focus(self):
@@ -106,13 +106,12 @@ class DataScientist:
 
 ### 🚀 Featured Projects
 
-#### 🧠 [TechDocSystem](https://github.com/PrinceRansom7/TechDocSystem) — Self-Corrective Technical RAG System
-> **Tech Stack:** `Python` `LangGraph` `FastAPI` `Streamlit` `FAISS` `LLMs`
+#### 🤖 [ParcelPilot AI Agent](https://github.com/PrinceRansom7/parcelpilot-ai-agent)
+> **Tech Stack:** `Python` `LangChain` `Function Calling` `RAG` `FastAPI`
 
-An advanced self-corrective RAG system engineered for querying technical documentation with dynamic hallucination checks and retrieval validation.
-- 🔄 **Adaptive Retrieval:** Evaluates document relevance and triggers corrective re-querying when ambiguity is detected.
-- ⚡ **Modular Architecture:** Integrated with a high-performance FastAPI backend and interactive Streamlit UI.
-- 🎯 **Accuracy First:** Reduces hallucinations through structured reflection and grounding checks.
+An agent-based intelligent support copilot combining retrieval mechanisms with tool execution for logistics management.
+- 🛠️ **Tool-Calling Agent:** Executes live order tracking, status lookups, and dispute resolution logic.
+- 💬 **Context-Aware:** Handles multi-turn conversations with contextual memory and fallback routines.
 
 ---
 
@@ -123,6 +122,16 @@ An end-to-end data analytics and machine learning platform providing intelligent
 - 📊 **Scouting Engine:** Algorithmic similarity matching to identify undervalued player profiles.
 - 📈 **Interactive Dashboards:** Visual metric radars, performance percentiles, and KPI breakdowns.
 - 🚀 **Production API:** Deployed REST endpoints for real-time querying of enriched sports datasets.
+
+---
+
+#### 🧠 [TechDocSystem](https://github.com/PrinceRansom7/TechDocSystem) — Self-Corrective Technical RAG System
+> **Tech Stack:** `Python` `LangGraph` `FastAPI` `Streamlit` `FAISS` `LLMs`
+
+An advanced self-corrective RAG system engineered for querying technical documentation with dynamic hallucination checks and retrieval validation.
+- 🔄 **Adaptive Retrieval:** Evaluates document relevance and triggers corrective re-querying when ambiguity is detected.
+- ⚡ **Modular Architecture:** Integrated with a high-performance FastAPI backend and interactive Streamlit UI.
+- 🎯 **Accuracy First:** Reduces hallucinations through structured reflection and grounding checks.
 
 ---
 
@@ -143,15 +152,6 @@ A deep learning implementation of the MRNet architecture for automated knee inju
 - 🩻 **Multi-Plane Processing:** Ingests sagittal, coronal, and axial MRI series for holistic diagnosis.
 - 🎯 **Clinical Utility:** Achieves competitive AUC metrics for ACL and meniscal tear detection.
 - 🔬 **Reproducible Research:** End-to-end training and evaluation pipelines with automated data augmentation.
-
----
-
-#### 🤖 [ParcelPilot AI Agent](https://github.com/PrinceRansom7/parcelpilot-ai-agent)
-> **Tech Stack:** `Python` `LangChain` `Function Calling` `RAG` `FastAPI`
-
-An agent-based intelligent support copilot combining retrieval mechanisms with tool execution for logistics management.
-- 🛠️ **Tool-Calling Agent:** Executes live order tracking, status lookups, and dispute resolution logic.
-- 💬 **Context-Aware:** Handles multi-turn conversations with contextual memory and fallback routines.
 
 ---
 
