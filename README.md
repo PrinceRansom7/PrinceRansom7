@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Data Science and ML & AI Enthusiast** specialized in designing and deploying end-to-end intelligent systems. My expertise spans research-grade deep learning architectures (medical imaging, variational autoencoders) as well as enterprise-ready agentic workflows, self-corrective RAG pipelines, and high-impact analytics platforms.
+I am a **Data Science and ML & AI Enthusiast** specialized in designing and deploying end-to-end intelligent systems. My expertise spans researching deep learning architectures (medical imaging, variational autoencoders) as well as agentic workflows, self-corrective RAG pipelines, and high-impact analytics platforms.
 
 ```python
 class DataScientist:
