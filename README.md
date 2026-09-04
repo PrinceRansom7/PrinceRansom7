@@ -112,6 +112,7 @@ class DataScientist:
 An agent-based intelligent support copilot combining retrieval mechanisms with tool execution for logistics management.
 - 🛠️ **Tool-Calling Agent:** Executes live order tracking, status lookups, and dispute resolution logic.
 - 💬 **Context-Aware:** Handles multi-turn conversations with contextual memory and fallback routines.
+- 🔐 **Role-Based Access Control (RBAC):** Enforces granular session authentication and tool-layer authorization (`support_agent` / `operations_admin`) to prevent unauthorized data leakage.
 
 ---
 
